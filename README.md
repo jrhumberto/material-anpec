@@ -69,6 +69,7 @@ https://home.ufam.edu.br/salomao/Micro%20II/2a%20Prova/Micro%20II%202a%20Prova%2
 
 http://robguena.fearp.usp.br/anpec/
 
+
 ## Raciocínio Lógico
 
 https://sites.google.com/site/gilbertosmatos1/disciplinas/disciplinas/raciocinio_logico_para_teste_anpad_ou_anpec
