@@ -26,6 +26,15 @@ A lista é a seguinte:
 1. [CanalAmanda Aires ](https://www.youtube.com/watch?v=Y57R45eOdOI&t=8s)
 1. [Canal Matemática Universitária - Prof. Renan Lima](https://www.youtube.com/channel/UC6TTtp9Hdx7GUz0OjrVg1_Q)
 
+
+## Playlists
+
+1. [ANPEC 1  ](https://www.youtube.com/watch?v=EN4CeC_RC9Q&list=PLexZBks2aFAOKkHZV9-zzYDKfN973FnvD)
+1. [ANPEC 2  ](https://www.youtube.com/watch?v=JBdhfplMQGk&list=PL0Og0j_FrtzO2vSdSiiXDm3gHqn44jO9A)
+1. [ANPEC MIC](https://www.youtube.com/watch?v=YWTspnHXH5o&list=PLsO6cmxm450euIof8VmnRxXqGOpI0N9NC)
+1. [ANPEC MAC](https://www.youtube.com/watch?v=JBdhfplMQGk&list=PL3qwlgQF8TsVHQkhc-OcD5QSvFWmJUeWq)
+1. [ANPEC ECB](https://www.youtube.com/watch?v=MsReU-FNqdE&list=PL3qwlgQF8TsVuFnjplNB-ZhWgpP3YF9tV)
+
 ## Dicas sobre a pós-graduação
 
 * [Guia da pós-graduação em economia de Mateus Maciel e outros](https://www.dropbox.com/sh/07fejkxd569fry9/AADO4KW4LXOHJfQihxFbAT2ba?dl=0)
@@ -38,10 +47,6 @@ A lista é a seguinte:
 * [PROF. CARLOS ALBERTO](http://www.carlosalberto.pro.br/arquivos/ppm3215.pdf)
 * [ANPEC UFF](https://www.professores.uff.br/anamluz/wp-content/uploads/sites/36/2017/08/Lista_anpec.pdf)
 * [PROFESSOR GADELHA](https://srbgadelha.files.wordpress.com/2010/12/16-crescimento-a-longo-prazo.pdf)
-
-## Contato
-
-Caso queiram sugerir mais materiais, basta me enviar um e-mail em marcelogelati@gmail.com ou me mandar uma mensagem no [Twitter](twitter.com/marcelogelati). Mais que isso, caso queiram materiais que tenham a resolução das provas, entrem em contato comigo pedindo que eu disponibilizo para vocês.
 
 ## UFAM
 
