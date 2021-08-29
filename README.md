@@ -80,6 +80,10 @@ https://sites.google.com/site/jglresende/teaching/microeconomia-1---graduacao
 
 https://sites.google.com/site/gilbertosmatos1/disciplinas/disciplinas/raciocinio_logico_para_teste_anpad_ou_anpec
 
+## Estatística UFPR
+
+http://www.leg.ufpr.br/~paulojus/estbas/
+
 ## FORUMEIROS
 
 https://anpec2014.forumeiros.com/
