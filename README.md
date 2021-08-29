@@ -34,6 +34,7 @@ A lista é a seguinte:
 1. [ANPEC MIC](https://www.youtube.com/watch?v=YWTspnHXH5o&list=PLsO6cmxm450euIof8VmnRxXqGOpI0N9NC)
 1. [ANPEC MAC](https://www.youtube.com/watch?v=JBdhfplMQGk&list=PL3qwlgQF8TsVHQkhc-OcD5QSvFWmJUeWq)
 1. [ANPEC ECB](https://www.youtube.com/watch?v=MsReU-FNqdE&list=PL3qwlgQF8TsVuFnjplNB-ZhWgpP3YF9tV)
+1. [Resoluções ANPEC CEO Educação](https://www.youtube.com/playlist?list=PLacmIjfJa2UvXdJUgwq5zOToNS7JtVvJh)
 
 ## Dicas sobre a pós-graduação
 
