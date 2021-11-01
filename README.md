@@ -97,6 +97,13 @@ https://www.cedeplar.ufmg.br/es-es/publicacoes/colecao-populacao-economia/1058-m
 ## Drive
 https://drive.google.com/drive/folders/1IDpSKSEuFCKAAQnyw2RM_3pmu-71-UTw?usp=sharing
 
+## Instagram ANPEC Simples com Resoluções 2022
+
+https://www.instagram.com/p/CUxvpl5lSoL/
+https://www.instagram.com/p/CUxaNcpl8Bb/
+https://www.instagram.com/p/CUvsGZTlWqx/
+https://www.instagram.com/p/CUvoSLvD8SC/
+
 
 ## Data da Inscrição, Prova e Site Antigo
 
