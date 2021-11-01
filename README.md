@@ -99,10 +99,10 @@ https://drive.google.com/drive/folders/1IDpSKSEuFCKAAQnyw2RM_3pmu-71-UTw?usp=sha
 
 ## Instagram ANPEC Simples com Resoluções 2022
 
-https://www.instagram.com/p/CUxvpl5lSoL/
-https://www.instagram.com/p/CUxaNcpl8Bb/
-https://www.instagram.com/p/CUvsGZTlWqx/
-https://www.instagram.com/p/CUvoSLvD8SC/
+https://www.instagram.com/p/CUxvpl5lSoL/  
+https://www.instagram.com/p/CUxaNcpl8Bb/  
+https://www.instagram.com/p/CUvsGZTlWqx/  
+https://www.instagram.com/p/CUvoSLvD8SC/  
 
 
 ## Data da Inscrição, Prova e Site Antigo
