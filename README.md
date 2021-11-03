@@ -99,11 +99,17 @@ https://drive.google.com/drive/folders/1IDpSKSEuFCKAAQnyw2RM_3pmu-71-UTw?usp=sha
 
 ## Instagram ANPEC Simples com Resoluções 2022
 
-https://www.instagram.com/p/CUxvpl5lSoL/  
-https://www.instagram.com/p/CUxaNcpl8Bb/  
-https://www.instagram.com/p/CUvsGZTlWqx/  
-https://www.instagram.com/p/CUvoSLvD8SC/  
+* Microeconomia: https://www.instagram.com/p/CUvoSLvD8SC/  
+* Macroeconomia: https://www.instagram.com/p/CUxaNcpl8Bb/  
+* Estatística: https://www.instagram.com/p/CUxvpl5lSoL/  
+* Matemática: https://www.instagram.com/p/CUvsGZTlWqx/  
 
+## REvisões ANPEC em 2021
+
+* Microeconomia: https://www.youtube.com/watch?v=9S4GymYtFQ0
+* Macroeconomia: https://www.youtube.com/watch?v=57OVRY7U320
+* Estatística: https://youtu.be/Ok8VpXqa1K4
+* Matemática: https://www.youtube.com/watch?v=dPUcUxQQJVE
 
 ## Data da Inscrição, Prova e Site Antigo
 
