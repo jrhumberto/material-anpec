@@ -51,51 +51,53 @@ A lista é a seguinte:
 
 ## UFAM
 
-https://home.ufam.edu.br/salomao/  
+* https://home.ufam.edu.br/salomao/    
 
-https://home.ufam.edu.br/salomao/Introducao%20a%20macro/1a%20Prova/Intromacro%202a%20prova%20(2017)%20-%20Anpec.pdf  
-https://home.ufam.edu.br/salomao/Introducao%20a%20macro/3a%20Prova/Exercicios/Quest%c3%b5es%20Anpec%20-%203a%20prova.pdf  
-https://home.ufam.edu.br/salomao/Introducao%20a%20macro/4a%20Prova/Quest%C3%B5es%20Anpec%20-%204a%20prova.pdf  
+* https://home.ufam.edu.br/salomao/Introducao%20a%20macro/1a%20Prova/Intromacro%202a%20prova%20(2017)%20-%20Anpec.pdf  
+* https://home.ufam.edu.br/salomao/Introducao%20a%20macro/3a%20Prova/Exercicios/Quest%c3%b5es%20Anpec%20-%203a%20prova.pdf    
+* https://home.ufam.edu.br/salomao/Introducao%20a%20macro/4a%20Prova/Quest%C3%B5es%20Anpec%20-%204a%20prova.pdf  
 
-https://home.ufam.edu.br/salomao/Introducao%20a%20micro/1a%20Prova/Macro%200-1%20-%20Questoes%20Anpec.pdf  
+* https://home.ufam.edu.br/salomao/Introducao%20a%20micro/1a%20Prova/Macro%200-1%20-%20Questoes%20Anpec.pdf  
 
 
-https://home.ufam.edu.br/salomao/Macro%20I/2a%20Prova/Macro%201%20prova%202%20-%20ANPEC.pdf  
-https://home.ufam.edu.br/salomao/Macro%20I/2a%20Prova/Macro%201%20prova%202%20-%20ANPEC.pdf  
-https://home.ufam.edu.br/salomao/Macro%20II/1%c2%aa%20Prova/Macro%20II%20prova%201%20parte%20I%20-%20ANPEC.pdf  
-https://home.ufam.edu.br/salomao/Macro%20II/1%c2%aa%20Prova/Macro%20II%20Prova%201%20parte%20II%20-%20ANPEC.pdf  
-https://home.ufam.edu.br/salomao/Macro%20II/2%c2%aa%20Prova/Macro%20II%20Prova%202%20-%20Anpec.pdf  
-https://home.ufam.edu.br/salomao/Macro%20II/3%c2%aa%20Prova/Macro%20II%20Prova%20III%20-%20Anpec.pdf  
+* https://home.ufam.edu.br/salomao/Macro%20I/2a%20Prova/Macro%201%20prova%202%20-%20ANPEC.pdf  
+* https://home.ufam.edu.br/salomao/Macro%20I/2a%20Prova/Macro%201%20prova%202%20-%20ANPEC.pdf  
+* https://home.ufam.edu.br/salomao/Macro%20II/1%c2%aa%20Prova/Macro%20II%20prova%201%20parte%20I%20-%20ANPEC.pdf  
+* https://home.ufam.edu.br/salomao/Macro%20II/1%c2%aa%20Prova/Macro%20II%20Prova%201%20parte%20II%20-%20ANPEC.pdf  
+* https://home.ufam.edu.br/salomao/Macro%20II/2%c2%aa%20Prova/Macro%20II%20Prova%202%20-%20Anpec.pdf  
+* https://home.ufam.edu.br/salomao/Macro%20II/3%c2%aa%20Prova/Macro%20II%20Prova%20III%20-%20Anpec.pdf  
 
-https://home.ufam.edu.br/salomao/Micro%20I/2a%20Prova/2a%20Prova%20-%20Anpec.pdf  
-https://home.ufam.edu.br/salomao/Micro%20II/1a%20Prova/Micro%20II%201a%20Prova%20-%20ANPEC.pdf  
-https://home.ufam.edu.br/salomao/Micro%20II/2a%20Prova/Micro%20II%202a%20Prova%20-%20ANPEC.pdf  
+* https://home.ufam.edu.br/salomao/Micro%20I/2a%20Prova/2a%20Prova%20-%20Anpec.pdf  
+* https://home.ufam.edu.br/salomao/Micro%20II/1a%20Prova/Micro%20II%201a%20Prova%20-%20ANPEC.pdf  
+* https://home.ufam.edu.br/salomao/Micro%20II/2a%20Prova/Micro%20II%202a%20Prova%20-%20ANPEC.pdf  
 
 ## Microeconomia USP e UNB
 
-http://robguena.fearp.usp.br/anpec/  
-https://sites.google.com/site/jglresende/teaching/microeconomia-1---graduacao
+- http://robguena.fearp.usp.br/anpec/  
+- https://sites.google.com/site/jglresende/teaching/microeconomia-1---graduacao
 
 ## Raciocínio Lógico
 
-https://sites.google.com/site/gilbertosmatos1/disciplinas/disciplinas/raciocinio_logico_para_teste_anpad_ou_anpec
+- https://sites.google.com/site/gilbertosmatos1/disciplinas/disciplinas/raciocinio_logico_para_teste_anpad_ou_anpec
 
 ## Estatística UFPR
 
-http://www.leg.ufpr.br/~paulojus/estbas/
+- http://www.leg.ufpr.br/~paulojus/estbas/
 
 ## FORUMEIROS
 
-https://anpec2014.forumeiros.com/
+- https://anpec2014.forumeiros.com/
 
 
 ## Livros
 
-https://www.cedeplar.ufmg.br/es-es/publicacoes/colecao-populacao-economia/1055-matematica-exercicios-resolvidos-da-anpec-1993-2007
-https://www.cedeplar.ufmg.br/es-es/publicacoes/colecao-populacao-economia/1058-microeconomia-exercicios-resolvidos-da-anpec
+- https://www.cedeplar.ufmg.br/es-es/publicacoes/colecao-populacao-economia/1055-matematica-exercicios-resolvidos-da-anpec-1993-2007
+- https://www.cedeplar.ufmg.br/es-es/publicacoes/colecao-populacao-economia/1058-microeconomia-exercicios-resolvidos-da-anpec
 
 ## Drive
-https://drive.google.com/drive/folders/1IDpSKSEuFCKAAQnyw2RM_3pmu-71-UTw?usp=sharing
+
+- https://drive.google.com/drive/folders/1vuNgRrPAO6qqX_Driu92aYmLjId7i2p8?usp=sharing  (https://beacons.ai/resumoseconomia)  
+- https://drive.google.com/drive/folders/1IDpSKSEuFCKAAQnyw2RM_3pmu-71-UTw?usp=sharing
 
 ## Instagram ANPEC Simples com Resoluções 2022
 
