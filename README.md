@@ -98,6 +98,7 @@ A lista é a seguinte:
 
 - https://drive.google.com/drive/folders/1vuNgRrPAO6qqX_Driu92aYmLjId7i2p8?usp=sharing  (https://beacons.ai/resumoseconomia)  
 - https://drive.google.com/drive/folders/1IDpSKSEuFCKAAQnyw2RM_3pmu-71-UTw?usp=sharing
+- https://drive.google.com/drive/folders/1EI4PVHcJc72_N3m9zu0UFYxfbJzR4t_u
 
 ## Instagram ANPEC Simples com Resoluções 2022
 
