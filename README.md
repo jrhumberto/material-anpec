@@ -25,9 +25,13 @@ A lista é a seguinte:
 
 1. [CanalAmanda Aires ](https://www.youtube.com/watch?v=Y57R45eOdOI&t=8s)
 1. [Canal Matemática Universitária - Prof. Renan Lima](https://www.youtube.com/channel/UC6TTtp9Hdx7GUz0OjrVg1_Q)
+2. [Tópicos em álgebra](https://www.youtube.com/playlist?list=PLEfwqyY2ox858I4pyFQas8vqz4Vc7eTju)
+3. [Análise combinatória](https://www.youtube.com/playlist?list=PLEfwqyY2ox84rxG6UCawQVeRl8V9NGnur)
+4. [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+5. [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
-## Playlists
+## Playlists específicas de ANPEC
 
 1. [ANPEC 1  ](https://www.youtube.com/watch?v=EN4CeC_RC9Q&list=PLexZBks2aFAOKkHZV9-zzYDKfN973FnvD)
 1. [ANPEC 2  ](https://www.youtube.com/watch?v=JBdhfplMQGk&list=PL0Og0j_FrtzO2vSdSiiXDm3gHqn44jO9A)
@@ -101,6 +105,10 @@ A lista é a seguinte:
 - https://drive.google.com/drive/folders/1EI4PVHcJc72_N3m9zu0UFYxfbJzR4t_u
 - https://drive.google.com/drive/folders/1wqxQLFEmeh1yZpE5WFND29lW1InntGCc?usp=sharing
 - https://drive.google.com/drive/folders/1PthkbJD36OzlvdR0M6JtoasdJobjFfa2
+- https://drive.google.com/drive/folders/1Z9gjUy5x_fr6EbY2FPovD4tzoD1MnTU1    (Matemática)
+- https://drive.google.com/file/d/1Z5zu1bSgF4U6dhF2g6_UUPaKyj339JtH/view?usp=sharing
+- https://drive.google.com/drive/folders/1_7tnvnElqL2JbD1hpkE8LC2rlNOYf7E9?usp=sharing
+- https://drive.google.com/file/d/1MPZhsfizBezD0IdJSUBJTgzvShsprUVf/view?usp=sharing (Contabilidade social)
 
 ## Instagram ANPEC Simples com Resoluções 2022
 
@@ -122,5 +130,6 @@ A lista é a seguinte:
 * Exame nos dias **30/09/2021 e 01/10/2021**
 * Antigo site: https://exame.anpec.org.br/index.php?r=site/index
 
-## Materiais complementares de Universidades
+## Materiais complementares de Universidades Externas
+
 * https://lucaswarwar.github.io/econometrics_notes.pdf
