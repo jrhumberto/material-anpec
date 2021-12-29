@@ -99,6 +99,7 @@ A lista é a seguinte:
 - https://drive.google.com/drive/folders/1vuNgRrPAO6qqX_Driu92aYmLjId7i2p8?usp=sharing  (https://beacons.ai/resumoseconomia)  
 - https://drive.google.com/drive/folders/1IDpSKSEuFCKAAQnyw2RM_3pmu-71-UTw?usp=sharing
 - https://drive.google.com/drive/folders/1EI4PVHcJc72_N3m9zu0UFYxfbJzR4t_u
+- https://drive.google.com/drive/u/0/folders/1wqxQLFEmeh1yZpE5WFND29lW1InntGCc
 
 ## Instagram ANPEC Simples com Resoluções 2022
 
@@ -119,3 +120,6 @@ A lista é a seguinte:
 * Inscrições até **20/08/2021** no site http://www.anpec.org.br/novosite/br
 * Exame nos dias **30/09/2021 e 01/10/2021**
 * Antigo site: https://exame.anpec.org.br/index.php?r=site/index
+
+## Materiais complementares de Universidades
+* https://lucaswarwar.github.io/econometrics_notes.pdf
