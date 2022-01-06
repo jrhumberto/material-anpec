@@ -84,6 +84,10 @@ A lista é a seguinte:
 
 - https://sites.google.com/site/gilbertosmatos1/disciplinas/disciplinas/raciocinio_logico_para_teste_anpad_ou_anpec
 
+## Repositório de Estatística
+
+ - https://github.com/ronissonlucas/Statistical
+
 ## Estatística UFPR
 
 - http://www.leg.ufpr.br/~paulojus/estbas/
