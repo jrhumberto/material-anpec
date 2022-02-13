@@ -109,7 +109,7 @@ A lista é a seguinte:
 - https://drive.google.com/drive/folders/1EI4PVHcJc72_N3m9zu0UFYxfbJzR4t_u
 - https://drive.google.com/drive/folders/1wqxQLFEmeh1yZpE5WFND29lW1InntGCc?usp=sharing
 - https://drive.google.com/drive/folders/1PthkbJD36OzlvdR0M6JtoasdJobjFfa2
-- https://drive.google.com/drive/folders/1Z9gjUy5x_fr6EbY2FPovD4tzoD1MnTU1    (Matemática)
+- https://drive.google.com/drihttps://compress-pdf.ersple.info/ve/folders/1Z9gjUy5x_fr6EbY2FPovD4tzoD1MnTU1    (Matemática)
 - https://drive.google.com/file/d/1Z5zu1bSgF4U6dhF2g6_UUPaKyj339JtH/view?usp=sharing
 - https://drive.google.com/drive/folders/1_7tnvnElqL2JbD1hpkE8LC2rlNOYf7E9?usp=sharing
 - https://drive.google.com/file/d/1MPZhsfizBezD0IdJSUBJTgzvShsprUVf/view?usp=sharing (Contabilidade social)
@@ -134,6 +134,7 @@ A lista é a seguinte:
 * Exame nos dias **30/09/2021 e 01/10/2021**
 * Antigo site: https://exame.anpec.org.br/index.php?r=site/index
 
-## Materiais complementares de Universidades Externas
+## Materiais complementares de Universidades Externas ou Fontes diversas
 
 * https://lucaswarwar.github.io/econometrics_notes.pdf
+* https://pt.scribd.com/user/126570953/Laura-Paschoin/uploads
