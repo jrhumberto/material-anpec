@@ -97,6 +97,10 @@ A lista é a seguinte:
 
 - https://anpec2014.forumeiros.com/
 
+## REsumos
+
+- https://sites.google.com/unesp.br/economistando/resumos-e-mapas-mentais
+
 
 ## Livros
 
