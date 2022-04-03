@@ -30,6 +30,7 @@ A lista é a seguinte:
 4. [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 5. [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 6. [GEOMETRIA ANALÍTICA GA](https://www.youtube.com/playlist?list=PLEfwqyY2ox858XssXB_f-Jx42fgTb0Vsn)
+7. [BrunoHolanda Micro](https://www.youtube.com/c/BrunoHolanda85/videos)
 
 
 ## Playlists específicas de ANPEC
