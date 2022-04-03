@@ -144,3 +144,9 @@ A lista é a seguinte:
 
 * https://lucaswarwar.github.io/econometrics_notes.pdf
 * https://pt.scribd.com/user/126570953/Laura-Paschoin/uploads
+
+## Provas Interessantes
+
+* https://ppger.ufc.br/wp-content/uploads/2022/01/prova-doutorado-turma-2022-gabarito.pdf
+* https://ppger.ufc.br/wp-content/uploads/2022/01/prova-mestrado-turma-2022-gabarito.pdf
+* https://caen.ufc.br/pt/doutorado/exames-de-qualificacao/
