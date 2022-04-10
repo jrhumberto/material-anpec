@@ -42,6 +42,14 @@ A lista é a seguinte:
 1. [ANPEC ECB](https://www.youtube.com/watch?v=MsReU-FNqdE&list=PL3qwlgQF8TsVuFnjplNB-ZhWgpP3YF9tV)
 1. [Resoluções ANPEC CEO Educação](https://www.youtube.com/playlist?list=PLacmIjfJa2UvXdJUgwq5zOToNS7JtVvJh)
 
+
+## Notas de Aula com materiais de estudante @matheuslcarrijo
+ 
+* https://sites.google.com/usp.br/matheuslopescarrijo/study/microeconomics
+* https://sites.google.com/usp.br/matheuslopescarrijo/study/macroeconomics
+* https://sites.google.com/usp.br/matheuslopescarrijo/study/math-econ
+* https://sites.google.com/usp.br/matheuslopescarrijo/study/prob-and-stat
+
 ## Dicas sobre a pós-graduação
 
 * [Guia da pós-graduação em economia de Mateus Maciel e outros](https://www.dropbox.com/sh/07fejkxd569fry9/AADO4KW4LXOHJfQihxFbAT2ba?dl=0)
