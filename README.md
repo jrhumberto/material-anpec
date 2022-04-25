@@ -159,3 +159,8 @@ A lista é a seguinte:
 * https://ppger.ufc.br/wp-content/uploads/2022/01/prova-doutorado-turma-2022-gabarito.pdf
 * https://ppger.ufc.br/wp-content/uploads/2022/01/prova-mestrado-turma-2022-gabarito.pdf
 * https://caen.ufc.br/pt/doutorado/exames-de-qualificacao/
+
+## Util
+
+* https://sites.google.com/usp.br/matheuslopescarrijo/study/comp-econ
+* https://www.inf.ufsc.br/~andre.zibetti/probabilidade/index.html
