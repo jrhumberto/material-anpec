@@ -143,11 +143,16 @@ A lista é a seguinte:
 * Estatística: https://youtu.be/Ok8VpXqa1K4
 * Matemática: https://www.youtube.com/watch?v=dPUcUxQQJVE
 
-## Data da Inscrição, Prova e Site Antigo
+## Data da Inscrição, Prova e Site Antigo - EXAME 2023
 
-* Inscrições até **20/08/2021** no site http://www.anpec.org.br/novosite/br
-* Exame nos dias **30/09/2021 e 01/10/2021**
-* Antigo site: https://exame.anpec.org.br/index.php?r=site/index
+### Inscrições até **19/08/2022** no site https://exame.anpec.org.br/index.php?r=site/manual#
+### Manual do Candidato: http://www.anpec.org.br/novosite/uploads/Exame2023_ManualdoCandidato-20220530.pdf
+### Exame nos dias **29/09/2022 e 30/09/2022**
+
++ VErsão do ano passado
+   * ~Inscrições até **20/08/2021** no site http://www.anpec.org.br/novosite/br~
+   * ~Exame nos dias **30/09/2021 e 01/10/2021**~
+   * Antigo site: https://exame.anpec.org.br/index.php?r=site/index
 
 ## Materiais complementares de Universidades Externas ou Fontes diversas
 
