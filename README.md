@@ -168,4 +168,5 @@ A lista é a seguinte:
 ## Util
 
 * https://sites.google.com/usp.br/matheuslopescarrijo/study/comp-econ
+* https://sites.google.com/usp.br/matheuslopescarrijo/study/anpec-exs
 * https://www.inf.ufsc.br/~andre.zibetti/probabilidade/index.html
