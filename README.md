@@ -158,6 +158,7 @@ A lista é a seguinte:
 
 * https://lucaswarwar.github.io/econometrics_notes.pdf
 * https://pt.scribd.com/user/126570953/Laura-Paschoin/uploads
+* https://foradeaula.wordpress.com
 
 ## Provas Interessantes
 
