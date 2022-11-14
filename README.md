@@ -171,3 +171,7 @@ A lista é a seguinte:
 * https://sites.google.com/usp.br/matheuslopescarrijo/study/comp-econ
 * https://sites.google.com/usp.br/matheuslopescarrijo/study/anpec-exs
 * https://www.inf.ufsc.br/~andre.zibetti/probabilidade/index.html
+
+## Resoluções 2022
+
+* [Exame ANPEC 2022 - Resolvendo Questões de Macroeconomia e Microeconomia - LIVE #01](https://youtu.be/By8nZdFSqs4?t=474)
