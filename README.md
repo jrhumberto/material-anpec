@@ -7,6 +7,7 @@ Este repositório é destinado a reunir materiais para auxiliar as pessoas que p
 
 ## Provas resolvidas e materiais
 * https://www.acjassumpcao.com/copia-centro-educacional-online-ceo
+* https://sites.google.com/site/manticinaris/disciplinas/economia
 
 ## Cálculo 
 * https://cursos.takhe.com.br/courses/calculo-i
