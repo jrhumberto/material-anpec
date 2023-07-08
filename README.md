@@ -4,6 +4,10 @@ Este repositório é destinado a reunir materiais para auxiliar as pessoas que p
 
 ## Conteúdo para a Anpec
 
+
+## Provas resolvidas e materiais
+* https://www.acjassumpcao.com/copia-centro-educacional-online-ceo
+
 ## Cálculo 
 * https://cursos.takhe.com.br/courses/calculo-i
 
