@@ -102,6 +102,14 @@ A lista é a seguinte:
 
 - https://sites.google.com/site/gilbertosmatos1/disciplinas/disciplinas/raciocinio_logico_para_teste_anpad_ou_anpec
 
+## MAtemática
+
+- https://www.lncc.br/~alm/cursos/anpec22/anpec.pdf
+- https://www.lncc.br/~alm/cursos/anpec21/anpec.pdf
+- https://www.lncc.br/~alm/cursos/anpec20/anpec.pdf
+- https://www.lncc.br/~alm/cursos/anpec12/anpec.pdf
+
+
 ## Repositório de Estatística
 
  - https://github.com/ronissonlucas/Statistical
