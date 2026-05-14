@@ -4,6 +4,7 @@ Este repositório é destinado a reunir materiais para auxiliar as pessoas que p
 
 ## PLataforma da FGV de Simulados
 - https://epge.fgv.br/plataforma-anpec
+- **Provas ANPEC até 2025**: https://epge.fgv.br/plataforma-anpec/local/informacoes.php
 
 ## Conteúdo para a ANPAD
 - https://drive.google.com/drive/folders/194lfXxaFpLcMN23Aqdb3pCpx_ZFU1evX?fbclid=IwAR3HdH4EI7x7etcYebIyD5ndcCi6eGCZi-Y2UG8EAqxzuoDCvgcVP42exGo
